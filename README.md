@@ -1,2 +1,3 @@
 # AI-Habit-Tracker
- y using python and scikit learn i created a ai habit tracker
+ By using python and scikit learn I craeted a AI Habit Tracker
+
